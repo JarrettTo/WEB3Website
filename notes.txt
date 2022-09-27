@@ -1,0 +1,3 @@
+In a browser, when u have a metamask or any toher wallet, it is stored as a window object. You can access it by typing window.ethereum or window.solana (for phantom wallet)
+
+If running the code on hardhat, make sure to include the Local hardhat network in your metamask and import one of the hardhat node accounts using the private key   
